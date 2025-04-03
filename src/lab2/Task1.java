@@ -15,5 +15,7 @@ public class Task1 {
         } else {
             System.out.println("Your number is 0");
         }
+
+        scanner.close();
     }
 }
